@@ -1,3 +1,0 @@
-- Mrs JM, 66-year-old, presents with a new prescription for candesartan 4 mg daily. On checking her medication record, she has been prescribed lisinopril 20 mg daily, bisoprolol 10 mg daily and furosemide 40 mg daily for the last 6 months to treat her heart failure (NYHA II–III). Her blood pressure was measured 2 weeks ago and was 128/78 mmHg.
-
-- Concomitant use of ARB and ACEi can bring high risk of RAAS-related side effects including notably angiodema. 
