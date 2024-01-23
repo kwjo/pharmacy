@@ -12,4 +12,3 @@
 ### R.
 - What is the recommended target dose for each medication?
 - What should be monitored when increasing the current dose to the target dose? 
-- 
